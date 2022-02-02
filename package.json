@@ -1,7 +1,7 @@
 {
-  "name": "shape-test",
+  "name": "rpg-game",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\">Matt's README Template</h1>",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
@@ -10,8 +10,8 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Matt Eilar & Eric Crudup",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
@@ -31,5 +31,13 @@
     "@popperjs/core": "^2.10.2",
     "bootstrap": "^5.1.3",
     "jquery": "^3.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meilar/RPG-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meilar/RPG-game/issues"
+  },
+  "homepage": "https://github.com/meilar/RPG-game#readme"
 }
